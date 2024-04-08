@@ -1,0 +1,20 @@
+.toto{
+    text-align: center;
+}
+.person{
+    color: chocolate;
+    background-color: darkkhaki;
+    border: 3px solid rebeccapurple;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+.friend{
+    background-color: cornflowerblue;
+    border: 3px solid rosybrown;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
